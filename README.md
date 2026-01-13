@@ -125,68 +125,81 @@ Aprendi que é basicamente igual a conversar com uma pessoa: quanto mais detalhe
 
 ---
 
-## 💬 Interações com o Lovable
+💬 Interações com o Lovable
 
-> Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document): {PRD}
+Criação do app com base no PRD refinado
 
-> Tentei criar uma meta chamada Reserva de Emergencia, mas ela não apareceu no componente. A impressão que tive foi que apenas o Assistente Financeiro a reconheceu, poderia verificar? Além disso, onde vejo os gráficos e extrato?
+Identificação de um problema na criação de metas (reconhecida pelo assistente, mas não exibida no componente visual)
 
-> Sim (Quer que eu adicione uma tela de relatórios com gráficos e extrato detalhado das transações?)
+Solicitação de melhoria com inclusão de uma tela dedicada a relatórios, gráficos e extrato detalhado
 
----
+Ajuste confirmado e aplicado no protótipo
 
-## 🎯 Resultado Final
+🎯 Resultado Final
 
-Acesse o protótipo funcional no Lovable:  
-**[conversa-fin-amigo.lovable.app](https://conversa-fin-amigo.lovable.app/)**
+Protótipo funcional disponível em:
+🔗 https://conversa-fin-amigo.lovable.app/
 
-<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/88ef611d-970e-4377-918a-918714311218" />
+(Imagem ilustrativa do app)
 
----
+🔍 Principais Funcionalidades do Aplicativo
+📊 Dashboard Financeiro
 
-## 🔍 Funcionalidades do App de Organização Financeira
+Visão geral das finanças do usuário:
 
-### 1. Dashboard Financeiro
-- Exibe um panorama claro das finanças pessoais:
-  - **Receitas**: Total de ganhos registrados
-  - **Despesas**: Total de gastos
-  - **Saldo**: Diferença entre receitas e despesas
-- Interface simples e direta para facilitar a compreensão
+Total de receitas
 
-### 2. Assistente Financeiro
-- Personagem conversacional que interage com o usuário
-- Incentiva a conexão de contas e cartões para uma visão completa das finanças
-- Oferece suporte emocional e motivacional
+Total de despesas
 
-### 3. Registro de Transações via Chat
-- Campo de entrada para o usuário digitar mensagens em linguagem natural
-- Permite registrar gastos e interagir com o assistente de forma fluida
+Saldo disponível
 
-### 4. Metas Financeiras
-- Área dedicada à criação e acompanhamento de objetivos financeiros
-- Sugestão proativa para o usuário definir metas
-- Botão de ação para adicionar novas metas
+Interface objetiva e fácil de interpretar
 
-### 5. Relatórios Personalizados
-- Visualizações simples e adaptadas ao estilo do usuário
-- Acompanhamento de metas e progresso financeiro
+🤖 Assistente Financeiro
 
-### 6. Design Universal
-- Interface acessível e inclusiva:
-  - Linguagem simples
-  - Navegação clara
-  - Compatibilidade com leitores de tela e comandos por voz
-  - Feedbacks visuais e auditivos para facilitar o uso
+Personagem conversacional que guia o usuário
 
----
+Incentiva boas práticas financeiras
 
-## 🧠 Reflexão
+Oferece suporte motivacional e educativo
 
-### O que funcionou bem?  
-O refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable acabaram em apenas 3 interações.
+💬 Registro de Transações por Chat
 
-### O que não funcionou como o esperado?  
-Esperava poder interagir mais vezes gratuitamente com o Lovable, mas as interações feitas já foram de grande valia para aprender mais sobre Vibe Coding.
+Entrada de dados em linguagem natural
 
-### O que aprendi sobre conversar com IAs?  
-Aprendi que é basicamente igual a conversar com uma pessoa: quanto mais detalhes e clareza você dá, melhor é a interação.
+Experiência fluida e sem formulários tradicionais
+
+🎯 Metas Financeiras
+
+Criação e acompanhamento de objetivos financeiros
+
+Sugestões proativas para incentivar o planejamento
+
+📈 Relatórios Personalizados
+
+Gráficos simples e intuitivos
+
+Acompanhamento de gastos e progresso das metas
+
+♿ Design Universal
+
+Linguagem clara e acessível
+
+Navegação intuitiva
+
+Compatível com leitores de tela
+
+Feedbacks visuais e auditivos
+
+🧠 Reflexão Final
+O que funcionou bem?
+
+O refinamento prévio do PRD no Copilot foi essencial, especialmente considerando a limitação de interações gratuitas no Lovable. Isso permitiu maior aproveitamento das poucas interações disponíveis.
+
+O que poderia ter sido melhor?
+
+A expectativa inicial era interagir mais vezes gratuitamente com o Lovable, mas mesmo assim a experiência foi extremamente rica em aprendizado.
+
+Principais aprendizados
+
+Conversar com IAs é muito parecido com conversar com pessoas: quanto mais claro, detalhado e contextualizado for o pedido, melhores são os resultados.
