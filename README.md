@@ -7,6 +7,15 @@ Este projeto foi desenvolvido como um Desafio de Projeto da DIO de Vibe Coding u
 ## 📝 PRD Refinado no Copilot Web
 
 ```markdown
+# 💸 App de Finanças Pessoais do Venilton com Vibe Coding
+
+Este projeto foi desenvolvido como um Desafio de Projeto da DIO de Vibe Coding utilizando o Lovable e o Copilot Web. A proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
+
+---
+
+## 📝 PRD Refinado no Copilot Web
+
+```markdown
 # PRD - App de Organização Financeira com Conversa Natural
 
 ## Visão Geral
@@ -42,6 +51,76 @@ Gerar um plano de MVP contendo:
 - Estratégia de validação inicial com usuários reais
 - Linguagem acessível e tom educativo, em português
 - Aplicação dos princípios de Design Universal desde o protótipo
+```
+
+---
+
+## 💬 Interações com o Lovable
+
+> Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document): {PRD}
+
+> Tentei criar uma meta chamada Reserva de Emergencia, mas ela não apareceu no componente. A impressão que tive foi que apenas o Assistente Financeiro a reconheceu, poderia verificar? Além disso, onde vejo os gráficos e extrato?
+
+> Sim (Quer que eu adicione uma tela de relatórios com gráficos e extrato detalhado das transações?)
+
+---
+
+## 🎯 Resultado Final
+
+Acesse o protótipo funcional no Lovable:  
+**[conversa-fin-amigo.lovable.app](https://conversa-fin-amigo.lovable.app/)**
+
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/88ef611d-970e-4377-918a-918714311218" />
+
+---
+
+## 🔍 Funcionalidades do App de Organização Financeira
+
+### 1. Dashboard Financeiro
+- Exibe um panorama claro das finanças pessoais:
+  - **Receitas**: Total de ganhos registrados
+  - **Despesas**: Total de gastos
+  - **Saldo**: Diferença entre receitas e despesas
+- Interface simples e direta para facilitar a compreensão
+
+### 2. Assistente Financeiro
+- Personagem conversacional que interage com o usuário
+- Incentiva a conexão de contas e cartões para uma visão completa das finanças
+- Oferece suporte emocional e motivacional
+
+### 3. Registro de Transações via Chat
+- Campo de entrada para o usuário digitar mensagens em linguagem natural
+- Permite registrar gastos e interagir com o assistente de forma fluida
+
+### 4. Metas Financeiras
+- Área dedicada à criação e acompanhamento de objetivos financeiros
+- Sugestão proativa para o usuário definir metas
+- Botão de ação para adicionar novas metas
+
+### 5. Relatórios Personalizados
+- Visualizações simples e adaptadas ao estilo do usuário
+- Acompanhamento de metas e progresso financeiro
+
+### 6. Design Universal
+- Interface acessível e inclusiva:
+  - Linguagem simples
+  - Navegação clara
+  - Compatibilidade com leitores de tela e comandos por voz
+  - Feedbacks visuais e auditivos para facilitar o uso
+
+---
+
+## 🧠 Reflexão
+
+### O que funcionou bem?  
+O refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable acabaram em apenas 3 interações.
+
+### O que não funcionou como o esperado?  
+Esperava poder interagir mais vezes gratuitamente com o Lovable, mas as interações feitas já foram de grande valia para aprender mais sobre Vibe Coding.
+
+### O que aprendi sobre conversar com IAs?  
+Aprendi que é basicamente igual a conversar com uma pessoa: quanto mais detalhes e clareza você dá, melhor é a interação.
+
 ```
 
 ---
